@@ -96,4 +96,6 @@ CGPA: 7.6/10
 ### ✨ Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/harunansari27/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=harunansari27&color=blue)
+
 
