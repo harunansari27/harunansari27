@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**harunansari27/harunansari27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hey, I'm Harun Ansari
 
 **Java Backend Developer** | Spring Boot ⚡ Microservices ⚡ Kafka | AWS enthusiast  
@@ -48,9 +31,7 @@ Here are some ideas to get you started:
 ## 🔥 Streak & Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harunansari27&theme=radical)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunansari27&theme=react-dark&hide_border=true)
-
 
 ---
 
@@ -60,16 +41,33 @@ Here are some ideas to get you started:
 Java, MySQL, Swing  
 - Full-stack system for booking, flight scheduling & ticketing  
 - GUI with Java Swing for smooth interaction  
-![Airline GIF](https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif)
 
 ### Stripe Payment Integration System | Spring Boot, Kafka, AWS  
 - Handles 2K+ transactions/min with Redis caching → 35% latency reduction  
 - 10+ REST APIs storing 100K+ transactions, deployed on AWS EC2/RDS  
-![Stripe GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-*(Add more GIFs for other projects for maximum wow-factor)*
+*(Add more GIFs/screenshots for other projects for extra pop)*
 
 ---
+
+## 🔭 I’m currently working on
+- Building scalable backend systems with Spring Boot & Microservices  
+- Optimizing payment & transaction systems deployed on AWS  
+
+## 🌱 I’m currently learning
+- Rust ⚡  
+- Next.js & modern full-stack development 🌐  
+- AI & Machine Learning 🤖  
+- DevOps & CI/CD automation ⚙️  
+
+## 👯 I’m looking to collaborate on
+- Open-source Java backend projects  
+- Microservices & cloud-native applications  
+
+## 💬 Ask me about
+- Java, Spring Boot, REST APIs  
+- Databases, Kafka, Redis, AWS  
+- DSA, algorithms, and coding challenges  
 
 ## 🏫 Education
 
@@ -97,5 +95,3 @@ CGPA: 7.6/10
 ### ✨ Visitor Count
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harunansari27&color=blue)
-
-
