@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harunansari27&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harunansari27&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunansari27&theme=react-dark&hide_border=true)
+
 
 ---
 
