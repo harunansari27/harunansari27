@@ -5,7 +5,6 @@
 
 ![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -36,18 +35,26 @@
 
 ---
 
+## 📈 Activity Overview
+
+![Metrics](https://github.com/harunansari27/harunansari27/blob/main/Screenshot%202025-10-21%20200729.png)
+
+*(GitHub Metrics showing commit distribution, coding languages, and weekly activity)*
+
+---
+
 ## 💻 Featured Projects
 
 ### [Airline Management System](https://github.com/harunansari27/AirLine-Management-System)  
-Java, MySQL, Swing  
+**Java, MySQL, Swing**  
 - Full-stack system for booking, flight scheduling & ticketing  
-- GUI with Java Swing for smooth interaction  
+- GUI built with Java Swing for smooth interaction  
 
 ### Stripe Payment Integration System | Spring Boot, Kafka, AWS  
-- Handles 2K+ transactions/min with Redis caching → 35% latency reduction  
-- 10+ REST APIs storing 100K+ transactions, deployed on AWS EC2/RDS  
+- Handles **2K+ transactions/min** with Redis caching → **35% latency reduction**  
+- 10+ REST APIs managing **100K+ transactions**, deployed on **AWS EC2/RDS**
 
-*(Add more GIFs/screenshots for other projects for extra pop)*
+*(Add screenshots/GIFs for extra visual punch 💥)*
 
 ---
 
@@ -57,7 +64,7 @@ Java, MySQL, Swing
 
 ## 🌱 I’m currently learning
 - Rust ⚡  
-- Next.js & modern full-stack development 🌐  
+- Next.js & modern full-stack dev 🌐  
 - AI & Machine Learning 🤖  
 - DevOps & CI/CD automation ⚙️  
 
@@ -70,18 +77,24 @@ Java, MySQL, Swing
 - Databases, Kafka, Redis, AWS  
 - DSA, algorithms, and coding challenges  
 
+---
+
 ## 🏫 Education
 
-**B.Tech in Computer Science & Engineering** – IEC College of Engineering & Technology, Greater Noida | 2020 – 2024  
-CGPA: 7.6/10  
+**B.Tech in Computer Science & Engineering**  
+IEC College of Engineering & Technology, Greater Noida | *2020 – 2024*  
+**CGPA:** 7.6/10  
 
 ---
 
 ## 🏆 Achievements
 
-- Solved 1100+ problems on [LeetCode](https://leetcode.com/u/harunansari__/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/harunansari__/) – Top 3 Institute Rank  
+- Solved **1100+ problems** on [LeetCode](https://leetcode.com/u/harunansari__/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/harunansari__/) → *Top 3 Institute Rank*  
 - 100+ Java coding projects → [GitHub Repo](https://github.com/harunansari27/Java-Program)  
-- Internships: Tableau dashboards (Deloitte), Spring Boot services (HPE, 30% bug reduction), EA simulation optimization (+25% performance)
+- **Internships:**  
+  - Tableau dashboards (Deloitte)  
+  - Spring Boot services (HPE) → *30% bug reduction*  
+  - EA simulation optimization → *+25% performance boost*
 
 ---
 
@@ -89,7 +102,7 @@ CGPA: 7.6/10
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/harun-/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&style=flat-square)](https://github.com/harunansari27)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:harunansaru051@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:harunansaru051@gmail.com)
 
 ---
 
