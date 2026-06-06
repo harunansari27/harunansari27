@@ -99,3 +99,6 @@ public class HaroonAnsari {
   ⭐ **If you like my work, drop a star on my repos!** ⭐
   
 </div>
+
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
