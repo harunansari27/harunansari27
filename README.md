@@ -1,111 +1,77 @@
-# 👋 Hey, I'm Harun Ansari
+<div align="center">
 
-**Java Backend Developer** | Spring Boot ⚡ Microservices ⚡ Kafka | AWS enthusiast  
-1100+ DSA problems solved 💻 | Built systems supporting 8K+ users 🚀  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Haroon+Ansari+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+AWS;1100%2B+DSA+Problems+Solved!" alt="Typing SVG" />
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class HaroonAnsari {
+
+    String role     = "Java Backend Developer (SDE-1)";
+    String location = "Greater Noida, India 📍";
+    String college  = "IEC College of Engineering | B.Tech CSE 2024";
+    String cgpa     = "7.6";
+
+    String[] techStack = {
+        "Java", "Spring Boot", "Microservices",
+        "Kafka", "REST APIs", "MySQL", "MongoDB",
+        "Docker", "AWS", "Git"
+    };
+
+    String dsa      = "1100+ problems solved 🔥";
+    String goal     = "Open to SDE-1 / Junior Java Developer roles";
+    String fun      = "I debug faster with chai ☕";
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=JUnit5&logoColor=white)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harunansari27&show_icons=true&theme=radical&count_private=true&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harunansari27&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak"/>
+</div>
 
 ---
 
-## 🔥 Streak & Contributions
+## 🚀 Featured Projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harunansari27&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harunansari27&theme=react-dark&hide_border=true)
-
----
-
-## 📈 Activity Overview
-
-![Metrics](https://github.com/harunansari27/harunansari27/blob/main/Screenshot%202025-10-21%20200729.png)
-
-*(GitHub Metrics showing commit distribution, coding languages, and weekly activity)*
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🎫 **RailBook** | Spring Boot, MySQL, Kafka | Train ticket booking with segment-based seat availability |
+| 💳 **Stripe Payment Platform** | Spring Boot, Stripe API | Payment integration with webhook support |
+| 🔗 **Graph Data Query System** | Java, Graphs | Complex data queries using graph algorithms |
+| 🎓 **Student CRUD API** | Spring Boot, MySQL, JPA | Full REST API with Postman tested endpoints |
 
 ---
 
-## 💻 Featured Projects
-
-### [Airline Management System](https://github.com/harunansari27/AirLine-Management-System)  
-**Java, MySQL, Swing**  
-- Full-stack system for booking, flight scheduling & ticketing  
-- GUI built with Java Swing for smooth interaction  
-
-### Stripe Payment Integration System | Spring Boot, Kafka, AWS  
-- Handles **2K+ transactions/min** with Redis caching → **35% latency reduction**  
-- 10+ REST APIs managing **100K+ transactions**, deployed on **AWS EC2/RDS**
-
-*(Add screenshots/GIFs for extra visual punch 💥)*
-
----
-
-## 🔭 I’m currently working on
-- Building scalable backend systems with Spring Boot & Microservices  
-- Optimizing payment & transaction systems deployed on AWS  
-
-## 🌱 I’m currently learning
-- Rust ⚡  
-- Next.js & modern full-stack dev 🌐  
-- AI & Machine Learning 🤖  
-- DevOps & CI/CD automation ⚙️  
-
-## 👯 I’m looking to collaborate on
-- Open-source Java backend projects  
-- Microservices & cloud-native applications  
-
-## 💬 Ask me about
-- Java, Spring Boot, REST APIs  
-- Databases, Kafka, Redis, AWS  
-- DSA, algorithms, and coding challenges  
-
----
-
-## 🏫 Education
-
-**B.Tech in Computer Science & Engineering**  
-IEC College of Engineering & Technology, Greater Noida | *2020 – 2024*  
-**CGPA:** 7.6/10  
-
----
-
-## 🏆 Achievements
-
-- Solved **1100+ problems** on [LeetCode](https://leetcode.com/u/harunansari__/) & [GeeksforGeeks](https://www.geeksforgeeks.org/user/harunansari__/) → *Top 3 Institute Rank*  
-- 100+ Java coding projects → [GitHub Repo](https://github.com/harunansari27/Java-Program)  
-- **Internships:**  
-  - Tableau dashboards (Deloitte)  
-  - Spring Boot services (HPE) → *30% bug reduction*  
-  - EA simulation optimization → *+25% performance boost*
-
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/harun-/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&style=flat-square)](https://github.com/harunansari27)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square)](mailto:harunansaru051@gmail.com)
-
----
-
-### ✨ Visitor Count
-
-![Profile Views](https://komarev.com/ghpvc/?username=harunansari27&color=blue)
+## 📈 DSA Progress
