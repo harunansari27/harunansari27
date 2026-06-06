@@ -6,33 +6,41 @@
 
 </div>
 
----
+## 🧑‍💻 About Me
+
 
 ## 🧑‍💻 About Me
 
-```java
-public class HarunAnsari {
-
-    String role       = "Fresher Java Developer | Spring Boot • REST APIs • Agile SDLC";
-    String location   = "Greater Noida / Noida, UP, India 📍";
-    String college    = "IEC College of Engineering & Technology | B.Tech CSE 2024";
-    String cgpa       = "7.6 / 10";
-    String current    = "Data Verifier @ Ocrolus East Pvt. Ltd (Apr 2026 – Present)";
-
-    String[] techStack = {
-        "Java (8+)", "Spring Boot", "Spring MVC", "Spring Data JPA",
-        "Hibernate", "REST APIs", "Microservices", "Kafka",
-        "MySQL", "MongoDB", "React.js", "Docker", "AWS (EC2, RDS)",
-        "JUnit 5", "Mockito", "TDD", "Git", "Maven"
-    };
-
-    String dsa        = "1100+ problems — LeetCode, HackerRank, GFG 🔥";
-    String goal       = "Open to SDE-1 / Junior Java Developer roles";
-    String fun        = "I debug faster with chai ☕";
-}
-```
-
----
+<table>
+  <tr>
+    <td>👨‍💻 <b>Role</b></td>
+    <td>Fresher Java Developer | Spring Boot • REST APIs • Agile SDLC</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Greater Noida / Noida, UP, India</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>IEC College of Engineering & Technology | B.Tech CSE 2024 | CGPA: 7.6</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Current</b></td>
+    <td>Data Verifier @ Ocrolus East Pvt. Ltd (Apr 2026 – Present)</td>
+  </tr>
+  <tr>
+    <td>🔥 <b>DSA</b></td>
+    <td>1100+ problems solved — LeetCode, HackerRank, GFG</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Goal</b></td>
+    <td>Open to SDE-1 / Junior Java Developer roles</td>
+  </tr>
+  <tr>
+    <td>☕ <b>Fun Fact</b></td>
+    <td>I debug faster with chai!</td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
