@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harun%20Ansari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20AWS&descAlignY=55&descSize=16"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=🚀+Building+Scalable+Java+Backend+Systems;⚡+Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+AWS;🔥+1100%2B+DSA+Problems+Solved;💼+Open+to+SDE-1+%2F+Junior+Java+Developer+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=🚀+Building+Scalable+Java+Backend+Systems;⚡+Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+AWS;🔥+1100%2B+DSA+Problems+Solved;💼+Open+to+SDE-1+%2F+Junior+Java+Developer+Roles" alt="Typing SVG" />
 
 <br/>
 
