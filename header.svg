@@ -1,0 +1,78 @@
+<svg width="850" height="320" viewBox="0 0 850 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Harun Ansari - Java Backend Developer terminal">
+  <defs>
+    <!-- background glow gradient -->
+    <radialGradient id="bgGlow" cx="50%" cy="0%" r="100%">
+      <stop offset="0%" stop-color="#13314f"/>
+      <stop offset="60%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#090c10"/>
+    </radialGradient>
+    <!-- animated name gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="50%" stop-color="#6ad7ff"/>
+      <stop offset="100%" stop-color="#00d9ff"/>
+      <animate attributeName="x1" values="-100%;0%;100%" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;100%;200%" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#6DB33F" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- clip rects used to "type" each line by revealing left-to-right -->
+    <clipPath id="clip1"><rect x="60" y="0" width="320" height="320"><animate attributeName="width" from="0" to="320" dur="0.9s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="60" y="0" width="560" height="320"><animate attributeName="width" from="0" to="560" dur="1.1s" begin="1.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip3"><rect x="60" y="0" width="320" height="320"><animate attributeName="width" from="0" to="320" dur="0.9s" begin="2.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip4"><rect x="60" y="0" width="640" height="320"><animate attributeName="width" from="0" to="640" dur="1.3s" begin="3.9s" fill="freeze"/></rect></clipPath>
+
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; }
+      .prompt { fill:#6DB33F; }
+      .cmd    { fill:#c9d1d9; }
+      .out    { fill:#8b949e; }
+      .cyan   { fill:#00d9ff; }
+      .cursor { fill:#00d9ff; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity:0; } }
+      .float  { animation: floaty 6s ease-in-out infinite; }
+      @keyframes floaty { 0%,100%{ transform:translateY(0);} 50%{ transform:translateY(-6px);} }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="10" y="10" width="830" height="300" rx="14" fill="url(#bgGlow)" stroke="url(#border)" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="42" cy="42" r="7" fill="#ff5f56"/>
+  <circle cx="66" cy="42" r="7" fill="#ffbd2e"/>
+  <circle cx="90" cy="42" r="7" fill="#27c93f"/>
+  <text x="425" y="47" text-anchor="middle" class="mono out" font-size="14">harun@portfolio: ~/dev</text>
+  <line x1="10" y1="64" x2="840" y2="64" stroke="#21262d" stroke-width="1"/>
+
+  <!-- line 1 -->
+  <g clip-path="url(#clip1)">
+    <text x="60" y="118" class="mono" font-size="18"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text>
+  </g>
+  <!-- line 2 (name, gradient) -->
+  <g clip-path="url(#clip2)">
+    <text x="60" y="152" class="mono" font-size="20" font-weight="700"><tspan class="out">&gt; </tspan><tspan fill="url(#nameGrad)">Harun Ansari</tspan><tspan class="cmd"> — Java Backend Developer</tspan></text>
+  </g>
+  <!-- line 3 -->
+  <g clip-path="url(#clip3)">
+    <text x="60" y="210" class="mono" font-size="18"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text>
+  </g>
+  <!-- line 4 -->
+  <g clip-path="url(#clip4)">
+    <text x="60" y="244" class="mono" font-size="16"><tspan class="out">&gt; </tspan><tspan class="cyan">Spring Boot</tspan><tspan class="out"> · </tspan><tspan class="cyan">Microservices</tspan><tspan class="out"> · </tspan><tspan class="cyan">Kafka</tspan><tspan class="out"> · </tspan><tspan class="cyan">Docker</tspan><tspan class="out"> · </tspan><tspan class="cyan">AWS</tspan></text>
+  </g>
+
+  <!-- blinking cursor (appears after typing done) -->
+  <rect x="60" y="272" width="11" height="20" class="cursor"/>
+  <text x="80" y="288" class="mono out" font-size="15">1100+ DSA solved · Open to SDE-1 roles</text>
+
+  <!-- decorative floating tags -->
+  <g class="float" opacity="0.35">
+    <text x="700" y="120" class="mono cyan" font-size="13">{ }</text>
+    <text x="760" y="175" class="mono prompt" font-size="13">&lt;/&gt;</text>
+    <text x="720" y="230" class="mono cyan" font-size="13">01101</text>
+  </g>
+</svg>
