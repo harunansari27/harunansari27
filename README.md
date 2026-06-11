@@ -54,7 +54,7 @@
 
 🤝 Looking for: **SDE-1 / Junior Java Developer** opportunities
 
-☕ *"I debug faster with chai!"*
+☕ *"I debug faster with chai also with biscuit !"*
 
 <br clear="right"/>
 
