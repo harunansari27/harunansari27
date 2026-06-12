@@ -46,7 +46,7 @@
 
 🎓 **B.Tech CSE 2024** — IEC College of Engineering & Technology | **CGPA: 7.6**
 
-📍 **Greater Noida / Noida, UP** — Open to NCR + Remote roles
+📍 **Greater Noida / Noida, UP** — Open to over all India + Remote roles
 
 🔥 **1100+ DSA problems** solved across LeetCode, HackerRank, GFG
 
