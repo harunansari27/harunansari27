@@ -128,7 +128,7 @@
 </details>
 
 <details open>
-<summary><b>🖥️ Java Trainee Engineer — Astu Global Tech &nbsp;|&nbsp; Sep 2022 – Jan 2023 &nbsp;|&nbsp; Remote</b></summary>
+<summary><b>🖥️ Java Trainee Engineer — Astu Global Tech Pvt Ltd. &nbsp;|&nbsp; Sep 2022 – Jan 2023 &nbsp;|&nbsp; Remote</b></summary>
 <br/>
 
 > *Backend development & performance optimization*
