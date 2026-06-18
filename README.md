@@ -100,7 +100,7 @@
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experiences
 
 <details open>
 <summary><b>🏢 Data Verifier — Ocrolus East Private Limited &nbsp;|&nbsp; Apr 2026 – Present &nbsp;|&nbsp; Noida</b></summary>
