@@ -44,7 +44,7 @@
 
 🏢 Currently: **Data Verifier @ Ocrolus East Pvt. Ltd**
 
-🎓 **B.Tech CSE 2024** — IEC College of Engineering & Technology | **CGPA: 7.6**
+🎓 **B.Tech CSE 2024** — IEC College of Engineering & Technology Greater Noida UP | **CGPA: 7.6**
 
 📍 **Greater Noida / Noida, UP** — Open to over all India + Remote roles
 
